@@ -1,0 +1,5 @@
+.mobile{
+    display: flex;
+    width: 1350px;
+    justify-content: space-evenly;
+}
